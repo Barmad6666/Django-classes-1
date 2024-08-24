@@ -1,2 +1,2 @@
 print("its me! ex10")
-print("from feature-a")
+print("from feature-b")
